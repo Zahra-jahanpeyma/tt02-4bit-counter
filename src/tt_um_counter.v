@@ -17,6 +17,6 @@ module tt_um_counter (
         end
     end
 
-    assign uo_out = {4'b0000, count};  
+    assign uo_out = {4'b0000, count};  // 
 
 endmodule
