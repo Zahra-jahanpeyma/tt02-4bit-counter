@@ -1,6 +1,6 @@
 project:
   name: "4-bit Counter"
-  owner: "your_github_username"
+  owner: "Zahra-jahanpeyma"
   description: "A 4-bit counter with reset and clock input for Tiny Tapeout"
   top_module: "tt_um_counter"
   clock_hz: 1000
